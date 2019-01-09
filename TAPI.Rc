@@ -1,0 +1,3 @@
+#include "Res/MainDlg.rc"
+
+1           24      DISCARDABLE     "res\\manifest.txt"
